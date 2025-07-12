@@ -12,6 +12,7 @@ html {
   scroll-behavior: smooth;
   will-change: scroll-position;
   overflow-x: hidden;
+    box-sizing: border-box;
 }
 
 
